@@ -10,6 +10,21 @@ Website: **storygame.ca**
 [![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/storygame-engine/verify.yml?branch=main&label=CI)](https://github.com/nicholaskarlson/storygame-engine/actions/workflows/verify.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+## Frozen code anchor (for the book)
+
+If you’re following the companion book, use the frozen tag:
+- `book-v1.0`
+
+```bash
+git clone https://github.com/nicholaskarlson/storygame-engine
+cd storygame-engine
+git checkout book-v1.0
+make verify
+bash scripts/play.sh
+```
+
+
+
 
 A cross-platform Python text game (Ubuntu/macOS/Windows) where stories are authored in **plain YAML** and shared as deterministic **story packs** (zip + sha256 manifest + stable gallery index).
 
