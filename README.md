@@ -7,7 +7,7 @@ By Nicholas Elliott Karlson
 Website: **storygame.ca**
 
 
-[![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/storygame-engine/verify.yml?branch=main&label=CI&color=brightgreen)](https://github.com/nicholaskarlson/storygame-engine/actions/workflows/verify.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/storygame-engine/verify.yml?branch=main&label=CI)](https://github.com/nicholaskarlson/storygame-engine/actions/workflows/verify.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A cross-platform Python text game (Ubuntu/macOS/Windows) where stories are authored in **plain YAML** and shared as deterministic **story packs** (zip + sha256 manifest + stable gallery index).
@@ -108,4 +108,4 @@ MIT. See `LICENSE`.
 
 - Contributing: `CONTRIBUTING.md`
 - Support: `SUPPORT.md`
-- Releases: `RELEASE.md` (and `docs/press-checklist.md`)
+- Releases: `RELEASE.md`
