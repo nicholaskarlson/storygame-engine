@@ -1,8 +1,7 @@
 # Sharing stories (packs + gallery)
 
-Supports the book Make Your Own Story Game (Nicholas Elliott Karlson).
+This guide is for `storygame-engine` (CLI: `btg`).
 Website: storygame.ca
-Note: the v1 CLI name is btg
 
 A **story pack** is a deterministic zip file that contains:
 
