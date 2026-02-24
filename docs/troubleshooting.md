@@ -1,5 +1,9 @@
 # Troubleshooting
 
+Supports the book Make Your Own Story Game (Nicholas Elliott Karlson).
+Website: storygame.ca
+Note: the v1 CLI name is btg
+
 ## YAML won’t parse
 
 If you see an error that mentions YAML:

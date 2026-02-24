@@ -1,5 +1,9 @@
 # Authoring guide (non-programmers)
 
+Supports the book Make Your Own Story Game (Nicholas Elliott Karlson).
+Website: storygame.ca
+Note: the v1 CLI name is btg
+
 You can build a complete story game by editing one file: **`scenes.yaml`**.
 
 A story is a set of **scenes**. Each scene has:
