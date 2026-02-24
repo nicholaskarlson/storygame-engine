@@ -10,9 +10,10 @@ Website: **storygame.ca**
 [![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/storygame-engine/verify.yml?branch=main&label=CI)](https://github.com/nicholaskarlson/storygame-engine/actions/workflows/verify.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+
 A cross-platform Python text game (Ubuntu/macOS/Windows) where stories are authored in **plain YAML** and shared as deterministic **story packs** (zip + sha256 manifest + stable gallery index).
 
-This repo is meant to support a KDP eBook for non-programmers: you can write your own story game by editing `scenes.yaml` files—no Python required.
+This repo is meant to support a companion book for non-programmers: you can write your own story game by editing `scenes.yaml` files—no Python required.
 
 ## What you can do
 
