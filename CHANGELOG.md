@@ -6,7 +6,7 @@
 
 ## 0.1.0 (book companion)
 
-- PR1: decouple proof gate from book/audio extras; rename to bereavement-game
+- PR1: decouple proof gate from book/audio extras; rename to storygame-engine
 - PR2: remove KDP/DOCX builder; remove DOCX/exports steps from CI
 - PR3: remove audiobook export tooling
 - PR4: authoring docs bundle (authoring/commands/sharing/troubleshooting)

@@ -1,6 +1,13 @@
-# bereavement-game
+# storygame-engine
 
-[![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/bereavement-game/verify.yml?branch=main&label=CI&color=brightgreen)](https://github.com/nicholaskarlson/bereavement-game/actions/workflows/verify.yml)
+**Make Your Own Story Game**
+*A Non-Programmer’s Guide to Writing Interactive Fiction in YAML, Running a Proof-First Python Game, and Sharing Story Packs on GitHub*
+By Nicholas Elliott Karlson
+
+Website: **storygame.ca**
+
+
+[![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/storygame-engine/verify.yml?branch=main&label=CI&color=brightgreen)](https://github.com/nicholaskarlson/storygame-engine/actions/workflows/verify.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A cross-platform Python text game (Ubuntu/macOS/Windows) where stories are authored in **plain YAML** and shared as deterministic **story packs** (zip + sha256 manifest + stable gallery index).
