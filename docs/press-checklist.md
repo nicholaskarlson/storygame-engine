@@ -1,6 +1,10 @@
 # Press-time checklist
 
-Before you publish the KDP eBook:
+Supports the book Make Your Own Story Game (Nicholas Elliott Karlson).
+Website: storygame.ca
+Note: the v1 CLI name is btg
+
+Before the eBook is published:
 
 - [ ] `main` is green in GitHub Actions
 - [ ] README Quickstart works on Windows + macOS/Ubuntu

@@ -1,5 +1,9 @@
 # Command reference
 
+Supports the book Make Your Own Story Game (Nicholas Elliott Karlson).
+Website: storygame.ca
+Note: the v1 CLI name is btg
+
 ## Story discovery
 
 - `btg list-stories` — list story projects under `stories/`
