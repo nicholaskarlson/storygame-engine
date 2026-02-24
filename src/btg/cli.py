@@ -194,7 +194,7 @@ def _print_pack_summary(console: Console, manifest: dict[str, Any]) -> None:
 
 
 def main(argv: list[str] | None = None) -> int:
-    p = argparse.ArgumentParser(prog="btg", description="Bereavement text game (proof-first).")
+    p = argparse.ArgumentParser(prog="btg", description="Story game engine (proof-first).")
     sub = p.add_subparsers(dest="cmd", required=True)
 
     play = sub.add_parser("play", help="Play the game.")
