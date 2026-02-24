@@ -32,6 +32,10 @@ jobs:
           ruff check .
           mypy src/btg
 
+      - name: Story lint
+        run: |
+          btg lint --strict
+
       - name: Tests
         run: |
           pytest -q
