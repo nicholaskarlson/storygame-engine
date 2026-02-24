@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for taking an interest in **bereavement-game**.
+Thanks for taking an interest in **storygame-engine**.
 
 ## Quickstart (dev)
 
