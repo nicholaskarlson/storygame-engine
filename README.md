@@ -4,7 +4,7 @@
 *A Non-Programmer’s Guide to Writing Interactive Fiction in YAML, Running a Proof-First Python Game, and Sharing Story Packs on GitHub*
 By Nicholas Elliott Karlson
 
-Website: **storygame.ca**
+Website: **NEKpress.ca**
 
 
 [![CI](https://img.shields.io/github/actions/workflow/status/nicholaskarlson/storygame-engine/verify.yml?branch=main&label=CI)](https://github.com/nicholaskarlson/storygame-engine/actions/workflows/verify.yml)
